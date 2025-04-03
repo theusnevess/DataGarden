@@ -33,4 +33,4 @@ Foi criado um **Diagrama UML** representando a arquitetura do sistema, incluindo
 ![Esquema do circuito](https://github.com/theusnevess/DataGarden/blob/main/images/Tinkercad_DataGarden.PNG)
 
 ### 📊 Diagrama UML
-![Diagrama UML](https://github.com/theusnevess/DataGarden/blob/main/UML_DataGarden.PNG).
+![Diagrama UML](https://github.com/theusnevess/DataGarden/blob/main/images/UML_DataGarden.PNG).
