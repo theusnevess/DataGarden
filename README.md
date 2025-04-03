@@ -27,7 +27,7 @@ Foi criado um **Diagrama UML** representando a arquitetura do sistema, incluindo
 
 ## 📷 Screenshots
 ### 🎨 Interface no Figma
-![Interface do Data Garden](caminho/para/sua/imagem.png](https://github.com/theusnevess/DataGarden/blob/main/images/Figma_DataGarden.PNG)
+![Interface do Data Garden](https://github.com/theusnevess/DataGarden/blob/main/images/Figma_DataGarden.PNG)
 
 ### 🔌 Esquema Arduino no Tinkercad
 ![Esquema do circuito](caminho/para/esquema.png)
