@@ -3,10 +3,10 @@
 **Data Garden** é um sistema inteligente para monitoramento ambiental utilizando **Arduino, Java e Figma**. O projeto tem como objetivo coletar e exibir informações sobre **temperatura, umidade do solo e luminosidade**, otimizando o cuidado com plantas e jardins.
 
 ## 📌 Funcionalidades
-- 📊 **Monitoramento em tempo real** de temperatura, umidade do solo e luminosidade.
+- 📊 **Monitoramento** de temperatura, umidade do solo e luminosidade.
 - 🌡️ **Leitura de sensores** e exibição dos dados na interface gráfica.
 - 💧 **Alerta de solo seco** e sugestão de irrigação automática.
-- 🌞 **Cálculo da luminosidade em lux** para melhor análise do ambiente.
+- 🌞 **Cálculo da luminosidade em lux no local** para melhor análise do ambiente.
 
 ---
 
